@@ -10,5 +10,5 @@ Notebooks included and steps:
 5. BERT_implementation_NLP_Project: build BERT transfer learning model
 6. ROBERTA_training_evaluation: build RoBERTa transfer learning model
 7. RoBERTa_phishing_project_shap: interpretability for RoBERTa model
-8. T5: build t5 model
-9. NLP Phishing-Main notebook:evaluating model performance and additional code for findings
+8. T5_notebook: build the T5 model
+9. NLP Phishing-Main notebook:evaluating model performance and created demo
